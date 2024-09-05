@@ -234,6 +234,10 @@ span{
     padding-left: 40px;
 }
 
+.images{
+    display: flex;
+    align-items: center;
+}
 footer{
     background-color: #F8F8F8;
 }
